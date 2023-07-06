@@ -12,7 +12,7 @@ table {
  border:solid black;
 }
 th{
-
+padding:20px;
  border: solid black;
 text-align: left;
 
@@ -22,6 +22,7 @@ tr {
 }
 td {
  text-align: right;
+ padding: 20px;
 
  border: solid black;
 }
@@ -29,3 +30,14 @@ td {
 
 text-align: center;
 }
+#tabeladois{
+ padding: 20px;
+ margin:20px ;
+}
+.doist,.doisc{
+ margin :100px
+}
+.none{
+ border:none
+}
+
